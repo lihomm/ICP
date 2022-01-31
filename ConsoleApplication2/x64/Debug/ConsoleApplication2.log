@@ -1,0 +1,13 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (ConsoleApplication2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main_functions.c
+C:\Users\User\source\repos\ICP Assignment\ConsoleApplication2\main_functions.c(1,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\User\source\repos\ICP Assignment\ConsoleApplication2\main_functions.c : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+C:\Users\User\source\repos\ICP Assignment\ConsoleApplication2\main_functions.c(27,13): warning C4101: 'node': unreferenced local variable
+C:\Users\User\source\repos\ICP Assignment\ConsoleApplication2\main_functions.c(127,20): warning C4101: 'y': unreferenced local variable
+C:\Users\User\source\repos\ICP Assignment\ConsoleApplication2\main_functions.c(127,26): warning C4101: 'i': unreferenced local variable
+C:\Users\User\source\repos\ICP Assignment\ConsoleApplication2\main_functions.c(126,11): warning C4101: 'temp': unreferenced local variable
+C:\Users\User\source\repos\ICP Assignment\ConsoleApplication2\main_functions.c(182,11): warning C4101: 'fptr': unreferenced local variable
+C:\Users\User\source\repos\ICP Assignment\ConsoleApplication2\main_functions.c(181,34): warning C4101: 'j': unreferenced local variable
+C:\Users\User\source\repos\ICP Assignment\ConsoleApplication2\main_functions.c(229,17): warning C4101: 'line': unreferenced local variable
+C:\Users\User\source\repos\ICP Assignment\ConsoleApplication2\main_functions.c(54): warning C4172: returning address of local variable or temporary: sup_ID
+  ConsoleApplication2.vcxproj -> C:\Users\User\source\repos\ICP Assignment\x64\Debug\ICP Assignment.exe
